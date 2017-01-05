@@ -1,0 +1,11 @@
+{
+  "name": "cover_band_project",
+  "version": "1.0.0",
+  "description": "A reggea cover band website using angularjs and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Walker",
+  "license": "ISC"
+}

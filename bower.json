@@ -1,0 +1,14 @@
+{
+  "name": "cover_band_project",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.0",
+    "angular-route": "^1.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-animate": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-touch": "^1.6.1"
+  }
+}
