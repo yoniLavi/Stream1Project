@@ -3,21 +3,21 @@ angular.module('RouteControllers', [])
       $scope.myInterval = 5000;
       $scope.noWrapSlides = false;
       $scope.active = 0;
-  
+
       // My slides
       $scope.slides = [
         {
-          image: "img/bobmarley1.jpg",
+          image: "img/croppedbobmarley.jpg",
           // text: "a",
           id: 0
         },
         {
-          image: "img/jimmycliff5.jpg",
-          // text: "b",
+          image: "img/croppedjimmycliff.jpg",
+        // text: "b",
           id: 1
         },
         {
-          image: "img/reggae3.jpg",
+          image: "img/croppedreggae.jpg",
           // text: "c",
           id: 2
         },
